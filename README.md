@@ -4,7 +4,7 @@ Take a look here at an article I published in *Nature Reviews Earth & Environmen
 #### Currently, I am developing the successor to the Earth Observation repository, pyeo.
 Pyeo (https://github.com/clcr/pyeo) is a near-real-time (NRT) deforestation monitoring library (*some literature - https://www.mdpi.com/2072-4292/14/3/707*). The library also acts as a way to query, specify Region of Interest (ROI) and download Sentinel-2 imagery using SciHub or Google Earth Engine.
 
-#### I have also submitted my PhD thesis and am awaiting my viva.
+#### I successfully defended my PhD thesis and am awaiting corrections.
 My thesis was titled - "Exploring the deforestation dynamics of oil palm expansion in the Central Peruvian Amazon".  
 In this thesis, I used satellite imagery to explore the promotion of deforestation by oil palm expansion, the drivers of oil palm expansion from deforestation and mapped oil palm using Convolutional Neural Networks (CNN) at an unprecedented spatial resolution.
 <!--
