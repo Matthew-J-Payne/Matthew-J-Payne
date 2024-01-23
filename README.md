@@ -1,10 +1,11 @@
 ### I'm an Earth Observation scientist passionate about using Python to develop solutions for our Planet 🌱
+
 Take a look here at an article I published in *Nature Reviews Earth & Environment* - https://www.nature.com/articles/s43017-021-00159-7
 
 #### I am currently developing Geospatial Algorithms for deployment in AWS
 Developing these geospatial processes is refreshing as the use-case is very streamlined and is designed to work from specific inputs. 
 
-#### I successfully defended my PhD thesis and will graduate in January 2024.
+#### I successfully defended my PhD thesis and graduated in January 2024.
 My thesis was titled - "Exploring the deforestation dynamics of oil palm expansion in the Central Peruvian Amazon".  
 In this thesis, I used satellite imagery to explore the promotion of deforestation by oil palm expansion, the drivers of oil palm expansion from deforestation and mapped oil palm using Convolutional Neural Networks (CNN) at an unprecedented spatial resolution.
 
